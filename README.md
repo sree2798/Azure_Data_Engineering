@@ -93,7 +93,7 @@ The Power BI dashboard includes:
     - Pie charts and bar graphs for total revenue and gender splits.
 - Filters:
     - Product category, gender, and date range filters for granular insights.
-<img width="504" alt="image" src="https://github.com/user-attachments/assets/80fe41b3-adcc-4c51-956f-e09dd409b8e1">
+
 
 ## Future Scope
 Enhancements:
